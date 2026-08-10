@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: tinkoff-kazino-onlayn-s-vyvodom-deneg.github.io
+Sitemap: https://tinkoff-kazino-onlayn-s-vyvodom-deneg.github.io/sitemap.xml
